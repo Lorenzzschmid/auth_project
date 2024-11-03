@@ -1,0 +1,29 @@
+# Dependency directories
+/node_modules
+
+# Build output
+/build
+
+# Environment variables
+.env
+
+# Logs
+/log
+
+# Compiled binaries or libraries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# macOS
+.DS_Store
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Package lock files
+package-lock.json
+yarn.lock
+
